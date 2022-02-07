@@ -16,4 +16,7 @@ I'm a full-stack software engineer based in San Francisco, CA.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=fernanda1411.fernanda1411&left_color=green&right_color=red)
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fernanda1411&show_icons=true&theme=gotham" alt="fernanda1411" />
